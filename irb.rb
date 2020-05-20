@@ -1,0 +1,3 @@
+require 'greeter'
+
+Greeter.hello
